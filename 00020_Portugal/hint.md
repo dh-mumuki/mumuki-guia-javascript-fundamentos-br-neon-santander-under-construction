@@ -1,1 +1,0 @@
-Ah, a garra começa na origem.

@@ -1,1 +1,0 @@
-Ótimo! Agora que você sabe 'Colocar', 'Retirar' e 'Mover' as pedras e a garra do tabuleiro, estamos prontos para exercícios mais divertidos! :muscle:

@@ -1,1 +1,0 @@
-A garra **começa na posição inicial** (0,0) e deve finalizar 3 células a leste da escada.

@@ -1,2 +1,0 @@
-Nós dissemos que você não deveria se importar com o tabuleiro, ou onde a garra está.
-Se o seu programa está bem escrito, e resolve o problema de colocar 4 pedras vermelhas e 3 pretas na célula atual, ele pode funcionar para **qualquer célula**.
