@@ -1,0 +1,26 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Executam os mesmos comandos, na mesma ordem e chegam ao mesmo tabuleiro final.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Executam os mesmos comandos, em ordem diferente e chegam ao mesmo tabuleiro
+    final.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Executam os mesmos comandos, em ordem diferente e chegam a diferentes tabuleiros
+    no final.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Executam os mesmos comandos, na mesma ordem e chegam a diferentes tabuleiros
+    no final.
+  checked: false
+name: A ordem dos fatores altera o produto
